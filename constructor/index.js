@@ -8,7 +8,6 @@ class Kucing2 {
     this.nama = nama;
     this.kaki = kaki;
   }
-
   berjalan() {
     console.log(`Hallo nama saya ${this.nama} kaki saya ${this.kaki}`);
   }
